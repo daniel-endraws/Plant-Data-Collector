@@ -1,0 +1,3 @@
+[submodule "RaspberryPi"]
+	path = RaspberryPi
+	url = https://github.com/daniel-endraws/Plant-Data-Collector-RPI.git
