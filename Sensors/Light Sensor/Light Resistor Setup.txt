@@ -1,0 +1,10 @@
+L = BR^m               
+where B = e^b
+
+LINE OF BEST FIT
+y = -1.0626x + 15.319
+ln L = m(ln R1) + b
+
+L = 4497354.981 * R ^ -1.0626
+
+https://jxxcarlson.medium.com/measuring-light-intensity-with-arduino-a575765c0862
